@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vitaliy 👋
 
-<!--
-**OvitasO/OvitasO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer focused on frontend development, currently learning HTML, CSS, JavaScript, and Git/GitHub.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I have used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* Python
+* Git / GitHub
+
+## 📌 Current projects
+
+* **YouTube Layout Practice** — an HTML/CSS project recreating parts of the YouTube interface.
+* **Python Hotkey Tool** — a small Windows hotkey tool built with Python, JSON files, `.bat` files, and PyInstaller.
+
+## 🎯 Learning goals
+
+* Finish the HTML/CSS course I'm currently taking
+* Start learning JavaScript properly
+* Build small interactive web projects
+* Practice DOM manipulation and browser behavior
+* Later explore backend development
+  
