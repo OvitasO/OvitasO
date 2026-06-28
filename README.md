@@ -9,11 +9,6 @@ I'm a beginner developer focused on frontend development, currently learning HTM
 * Python
 * Git / GitHub
 
-## 📌 Current projects
-
-* **YouTube Layout Practice** — an HTML/CSS project recreating parts of the YouTube interface.
-* **Python Hotkey Tool** — a small Windows hotkey tool built with Python, JSON files, `.bat` files, and PyInstaller.
-
 ## 🎯 Learning goals
 
 * Finish the HTML/CSS course I'm currently taking
