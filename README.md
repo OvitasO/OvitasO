@@ -11,8 +11,7 @@ I'm a beginner developer focused on frontend development, currently learning HTM
 
 ## 🎯 Learning goals
 
-* Finish the HTML/CSS course I'm currently taking
-* Start learning JavaScript properly
+* Finish the JavaScript course I'm currently taking
 * Build small interactive web projects
 * Practice DOM manipulation and browser behavior
 * Later explore backend development
